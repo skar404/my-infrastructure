@@ -1,0 +1,6 @@
+- hosts: all
+  become: yes
+  roles:
+    - ansible-roles/consul
+    - ansible-roles/dnsmasq
+    - ansible-roles/nomad
