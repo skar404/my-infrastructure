@@ -1,3 +1,4 @@
+# test nomad claster:
 node1 ansible_ssh_host=37.228.118.76 ansible_port=22 ansible_ssh_user=root consul_bootstrap=true
 node2 ansible_ssh_host=185.143.173.19 ansible_port=22 ansible_ssh_user=root
 node3 ansible_ssh_host=78.155.217.243 ansible_port=22 ansible_ssh_user=root
